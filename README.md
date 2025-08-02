@@ -1,4 +1,4 @@
-# 🧮 Matrix Dance
+# 👾 Matrix Dance
 
 A visually captivating Matrix style digital rain animation built with **HTML**, **CSS** and **JavaScript**. This effect displays a stream of glowing binary digits cascading down the screen, delivering a futuristic and hypnotic experience. Perfect for learning canvas animation and rendering logic.
 
