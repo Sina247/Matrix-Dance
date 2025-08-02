@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: #000;
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+}
+
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+#message.visible {
+  opacity: 1;
+  transform: scale(1);
+}
