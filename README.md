@@ -12,3 +12,8 @@ A visually captivating Matrix style digital rain animation built with **HTML**, 
 - 🧩 **Simple and lightweight** : No libraries or frameworks required.  
 - 📱 **Responsive full screen** : Scales perfectly to any screen size.  
 - 🖱️ **Interactive elements** : Reveals messages or actions on click.
+
+ ---
+ 
+## 🖼️ Screenshot
+<img width="1919" height="922" alt="Screenshot 2026-05-30 104128" src="https://github.com/user-attachments/assets/01c5e36e-9f8b-4bd5-a1cf-71ba723fe430" />
